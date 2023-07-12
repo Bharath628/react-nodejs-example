@@ -50,7 +50,7 @@ on:
 
 env:
   PROJECT_ID: starlit-complex-392601 # TODO: update Google Cloud project id
-  GAR_LOCATION: us-central1-docker.pkg.dev/starlit-complex-392601/test # TODO: update Artifact Registry location
+  GAR_LOCATION: us-central1 # TODO: update Artifact Registry location
   SERVICE: react-test # TODO: update Cloud Run service name
   REGION: us-central1 # TODO: update Cloud Run service region
 
